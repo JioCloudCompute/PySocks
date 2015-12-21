@@ -4,7 +4,7 @@ from distutils.core import setup
 VERSION = "1.5.6"
 
 setup(
-    name = "PySocks",
+    name = "pysocks",
     version = VERSION,
     description = "A Python SOCKS client module. See https://github.com/Anorov/PySocks for more information.",
     url = "https://github.com/Anorov/PySocks",
